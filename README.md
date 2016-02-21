@@ -5,7 +5,7 @@ A minimal way to translate webpages using php and xml files
 Just include in your php file that needs translation.
 Use `tr('String')` in your php to translate whatever you need.
 
-To change language simply add links to `?lang='new-language'` where new language is a language code and name of your xmls in your translation folder.
+To change language simply add links to `?lang='new-language'` where `new-language` is a language code and the name of your xmls in your translation folder.
 
 ##XML Structure
 In the translations folder there are a couple xml files as an example.
