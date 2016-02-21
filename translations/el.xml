@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language name="el">
+  <phrase>
+  	<name>Example one</name>
+	<value>Παράδειγμα ένα</value>
+  </phrase>
+  <phrase>
+  	<name>Logout</name>
+	<value>Αποσύνδεση</value>
+  </phrase>
+</language>
