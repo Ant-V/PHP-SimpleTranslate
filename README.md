@@ -20,4 +20,9 @@ There is a plan to add a way to catch a phrase not translated in the xml (line 5
 Feel free to change it to your needs!
 
 ####Warning
-This script uses $_SESSION variables, but does not check whether it has been initialized or not, mostly because there are many cases in which you may want to manage the session before hand.
+This script uses $_SESSION variables, but does not check whether it has been initialized or not, mostly because there are many cases in which you may want to manage the session before hand. If you don't, you may want to add the following on the very top of your php file:
+
+>if(!isset($_SESSION)) 
+>{ 
+>	session_start();
+>}
