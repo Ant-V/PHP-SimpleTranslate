@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language name="de">
+  <phrase>
+  	<name>Example one</name>
+	<value>Beispiel eins</value>
+  </phrase>
+  <phrase>
+  	<name>Logout</name>
+	<value>Ausloggen</value>
+  </phrase>
+</language>
